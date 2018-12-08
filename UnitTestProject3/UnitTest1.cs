@@ -7,7 +7,7 @@ namespace OleksandrShkinder
         [Test]
         public void TestMethod1()
         {
-            System.Console.WriteLine("Test OK");
+            System.Console.WriteLine("Test");
         }
     }
 }
